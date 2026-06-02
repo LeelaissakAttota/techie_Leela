@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leela</h1>
-<h3 align="center">AI/ML Engineer &nbsp;|&nbsp; Generative AI & RAG Specialist &nbsp;|&nbsp; 3x IBM Certified &nbsp;|&nbsp; Bengaluru, India</h3>
+<h3 align="center">Agentic AI & Generative AI Engineer &nbsp;|&nbsp; RAG Specialist &nbsp;|&nbsp; 3x IBM Certified &nbsp;|&nbsp; Bengaluru, India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Leelaissakattaota&label=Profile%20Views&color=1F4E79&style=flat" alt="profile views" />
@@ -55,17 +55,6 @@
 
 ---
 
-### 🚀 Featured AI Projects
-
-| 🔗 Project | 📝 Description | 🛠️ Tech Stack |
-|---|---|---|
-| 📄 **PDF Q&A Chatbot** | RAG system that answers questions from any PDF using a local LLM — no paid API needed | LangChain · ChromaDB · Llama2 · Streamlit |
-| 🤖 **Agentic AI Workflow** | Multi-agent system with reasoning, planning & self-correction capabilities | LangGraph · LangChain · OpenAI API · Tool Use |
-| 🎯 **AI Talent Screening Tool** | Automates candidate screening over JDs & resumes using RAG | FAISS · Hugging Face · LangChain · Gradio |
-| 📊 **Six Sigma Healthcare Analytics** | Statistical process analysis on patient admission data using Six Sigma DMAIC | R · RStudio · fitdistrplus · Statistical Process Control |
-
----
-
 ### 📜 IBM Professional Certifications
 
 | 🏅 Certification | 🏢 Issuer | 🖥️ Platform |
@@ -76,22 +65,29 @@
 
 ---
 
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/leela-a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Leela%20A-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:attotaleelaissak@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-attotaleelaissak@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Leelaissakattaota" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Leelaissakattaota-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<p align="center">
+  <i>"The best way to predict the future is to build it — one RAG pipeline at a time." 🚀</i>
 </p>
 
 ---
 
-<p align="center">
-  <i>"The best way to predict the future is to build it — one RAG pipeline at a time." 🚀</i>
-</p>
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 📦 [**advanced-mcp-lab**](https://github.com/LeelaissakAttota/advanced-mcp-lab) | Production-ready MCP server with remote HTTP transport, filesystem security & server-initiated LLM sampling | FastMCP · OpenAI GPT-4o-mini · Python |
+| 🍲 [**AI-NourishBot**](https://github.com/LeelaissakAttota/AI-NourishBot) | Multimodal multi-agent system that detects ingredients, filters by diet & suggests recipes | CrewAI · IBM Watsonx · Llama 3.2 90B Vision · Gradio |
+| 🐝 [**BeeAI-Agent-Systems**](https://github.com/LeelaissakAttota/BeeAI-Agent-Systems) | 12 progressive agent systems from basic LLM to multi-agent travel planner with human-in-the-loop | BeeAI · IBM Watsonx · Llama-4 Maverick · Granite |
+| 📄 [**docchat**](https://github.com/LeelaissakAttota/docchat) | Multi-agent RAG document Q&A with a factual verification loop | LangGraph · IBM Watsonx · BM25 · ChromaDB · Docling · Gradio |
+| 🍽️ [**California-Culinary-MCP-Server**](https://github.com/LeelaissakAttota/California-Culinary-MCP-Server) | Production MCP server with a ReAct agent loop for restaurant intelligence | FastMCP · Claude Sonnet 4 · Llama 3.3 70B · Gradio |
+| 🖼️ [**multimodal-rag-recommendation**](https://github.com/LeelaissakAttota/multimodal-rag-multi-agent-recommendation) | Multimodal RAG + 6-agent recommendation system with text & image indexes | LangGraph · ChromaDB · Cosine fusion ranking · Gradio |
+
+---
+
+
+
+### 📫 Let's connect
+
+Open to **Agentic & Generative AI engineering** roles. If your team is building autonomous, tool-using AI systems, reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
